@@ -1,6 +1,4 @@
 # A Trip Down SQLane: Tips For SQL and Spark
-
-# A Trip Down SQLane: Tips For SQL and Spark
 --------------------------------------------
 
 ## I. Introduction
