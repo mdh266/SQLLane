@@ -1,4 +1,4 @@
-# A Trip Down SQLane: Tips For SQL and Spark
+# A Trip Down SQL Memory Lane: Tips For SQL and Spark
 --------------------------------------------
 
 ### About
